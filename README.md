@@ -61,7 +61,7 @@ Principais bibliotecas utilizadas:
 ```sh
   # Instalar as bibliotecas e as dependências
   $ npm install (ou yarn)
-  $ Adicionar express " yarn dd express " ou npm install express 
+  $ Adicionar express " yarn add express " ou npm install express 
   $ Adicionar Nodemon " yarn add nodemon -D "  ou npm install nodemon
   $ Adicionar Nunjucks " yarn add nunjucks -D "  ou npm install nunjucks
 
